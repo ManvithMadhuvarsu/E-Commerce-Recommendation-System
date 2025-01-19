@@ -4,6 +4,8 @@
 
 This project is designed to implement a **real-time e-commerce recommendation system** that provides personalized product suggestions to users based on their browsing history, cart additions, and product interactions. The system uses **collaborative filtering** for existing users and **content-based filtering** for new users. The application is built with a modern stack using **React** for the frontend, **Supabase** for the backend, and **Python** for recommendation algorithms.
 
+You can view the live application here: [Shoppy Smart](https://shoppy-smart.netlify.app/)
+
 ## Features
 
 ### 1. **User Management**
