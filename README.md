@@ -93,7 +93,3 @@ Feel free to fork the repository and contribute by opening issues or submitting 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This description is designed to provide a comprehensive overview of the application and guide users through setting it up, using it, and contributing to it. You can add this to your GitHub repo’s README file.
