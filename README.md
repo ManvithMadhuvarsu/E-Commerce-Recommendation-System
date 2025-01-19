@@ -1,9 +1,3 @@
-# E-Commerce-Recommendation-System
-
-Here’s a fully structured description of your project for your GitHub repository:
-
----
-
 # Real-Time E-Commerce Recommendation System
 
 ## Overview
